@@ -1,0 +1,21 @@
+{
+  "name": "curecue",
+  "version": "1.0.0",
+  "description": "SnagShot is a lightweight and powerful browser extension designed for developers, designers, and students to capture, edit, and share screenshots directly from their web browser. Say goodbye to cumbersome desktop tools and hello to instant, in-browser screen capturing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mallika-coder/CureCue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mallika-coder/CureCue/issues"
+  },
+  "homepage": "https://github.com/Mallika-coder/CureCue#readme"
+}

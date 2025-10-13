@@ -1,0 +1,28 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - feeling_stressed
+
+responses:
+  utter_greet:
+    - text: "Hey there! How are you feeling today?"
+  utter_cheer_up:
+    - text: "Here’s something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
+  utter_did_that_help:
+    - text: "Did that help you feel better?"
+  utter_happy:
+    - text: "That’s great! Keep shining 🌞"
+  utter_goodbye:
+    - text: "Take care and remember — self-care is power 💙"
+  utter_iamabot:
+    - text: "I’m The Mystic, your AI wellness guide 💫"
+  utter_handle_stress:
+    - text: "I sense tension around you. Let’s breathe together for 10 seconds — inhale... exhale..."
